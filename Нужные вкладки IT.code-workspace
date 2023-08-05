@@ -1,0 +1,14 @@
+{
+   "folders": [
+	{
+		"name": "Нужные вкладки IT",
+		"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/Documents/IT/Практика/Нужные вкладки IT"
+	},
+	{
+		"path": ".."
+	}
+],
+   "settings": {
+      "liveServer.settings.multiRootWorkspaceName": "Git"
+   }
+}
